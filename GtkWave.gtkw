@@ -1,0 +1,42 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Sun May 03 14:09:33 2026
+[*]
+[dumpfile] "E:\verilog_tools\UART with FIFO\wave.vcd"
+[dumpfile_mtime] "Sun May 03 14:05:56 2026"
+[dumpfile_size] 92144
+[savefile] "E:\verilog_tools\UART with FIFO\GtkWave.gtkw"
+[timestart] 0
+[size] 1536 801
+[pos] -1 -1
+*-12.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[treeopen] tb.uut.
+[sst_width] 197
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 174
+@420
+tb.uut.tx.CLEANUP
+tb.uut.tx.CLKS_PER_BIT
+tb.uut.tx.DATA
+tb.uut.tx.IDLE
+tb.uut.tx.START
+tb.uut.tx.STOP
+@28
+tb.uut.tx.bit_index[2:0]
+tb.uut.tx.clk
+@22
+tb.uut.tx.clk_count[7:0]
+tb.uut.tx.data_reg[7:0]
+@28
+tb.uut.tx.rst
+tb.uut.tx.state[2:0]
+@22
+tb.uut.tx.tx_data[7:0]
+@28
+tb.uut.tx.tx_done
+tb.uut.tx.tx_serial
+tb.uut.tx.tx_start
+[pattern_trace] 1
+[pattern_trace] 0
